@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there, 🥸
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJldzlpNjgzd2R5M2h3MWl2bWprZXp3YW4yMTA0aWQ3eGFkaTFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wlmHd753EDhvjzMSDw/giphy.gif" alt="Description du GIF" width="30%">
+</p>
+
+### That is a test.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-belotti-8ab0a8304/) 
 
 <!--
 **FlorentBelotti/FlorentBelotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
