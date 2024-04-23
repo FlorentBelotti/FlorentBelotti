@@ -5,7 +5,6 @@
 </p>
 
 ### Profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 🔭 _I’m currently working on..._ **42_pipex**
 
 📚 _Reading..._ **"The fall of Constantinople, 1453" by sir Steven Runciman**
@@ -15,11 +14,9 @@
 ⚡ _Fun fact:_ Dom Perignon was a guy who really existed.
 
 ### Social![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-belotti-8ab0a8304/) 
 
 ### Project![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
-
 _In coming..._
 
 <!--
