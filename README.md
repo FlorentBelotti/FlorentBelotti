@@ -4,7 +4,10 @@
   <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/banner.gif" alt="Description du GIF" width="100%" height="50%">
 </p>
 
-### Profil ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
+### Profil 
+<p align="left">
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
+</p>
 
 🔭 _I’m currently working on..._ **42_pipex**
 
@@ -14,11 +17,17 @@
 
 ⚡ _Fun fact:_ Dom Perignon was a guy who really existed.
 
-### Social ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
+### Social
+<p align="left">
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-belotti-8ab0a8304/) 
 
-### Project ![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;
+### Project
+<p align="left">
+![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)&nbsp;&nbsp;
+</p>
 
 _In coming..._
 
