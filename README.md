@@ -1,10 +1,10 @@
-### Hello there, 🥸
+### FLORENT BELOTTI, student at 42_Perpignan
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="Description du GIF" width="100%" height="50%">
 </p>
 
-### This is a test.
+### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-belotti-8ab0a8304/) 
 
