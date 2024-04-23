@@ -1,7 +1,7 @@
 ### Hello there, 🥸
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="Description du GIF" width="30%">
+  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="Description du GIF" width="80%">
 </p>
 
 ### This is a test.
