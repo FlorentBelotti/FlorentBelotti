@@ -2,11 +2,6 @@
 </p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/forest_banner_gif" alt="Description du GIF" width="100%" height="100%">
 
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<div style="float: right; margin-top: -300px; margin-right: 20px;">
-    Votre texte à droite du bloc "fbelotti's 42 stats"
-    Il commencera à droite du bloc et se déroulera vers le bas le long de ce dernier.
-</div>
-
 [![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### Contact_me![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
