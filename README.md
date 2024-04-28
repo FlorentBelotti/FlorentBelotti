@@ -1,5 +1,5 @@
 ### Student at 42_Perpignan.
-</p><img src="https://i.pinimg.com/originals/48/f1/46/48f146a29a066696f35f9f09773f25d8.gif" alt="Description du GIF" width="100%" height="100%">
+</p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/forest_banner_gif" alt="Description du GIF" width="100%" height="100%">
 
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ### [![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti)](https://github.com/oakoudad/badge42)
