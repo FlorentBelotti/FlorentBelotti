@@ -2,7 +2,7 @@
 </p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/forest_banner_gif" alt="Description du GIF" width="100%" height="100%">
 
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<div style="float: right; margin-top: -150px; margin-right: 20px;">
+<div style="float: right; margin-top: -300px; margin-right: 20px;">
     Votre texte à droite du bloc "fbelotti's 42 stats"
     Il commencera à droite du bloc et se déroulera vers le bas le long de ce dernier.
 </div>
