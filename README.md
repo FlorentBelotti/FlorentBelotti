@@ -9,4 +9,5 @@
 _In coming..._
 
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-_In coming..._
+### [![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti)](https://github.com/oakoudad/badge42)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz66&label=Profile%20views&color=e66700&style=flat-square" alt="jayz66" /> </p>
