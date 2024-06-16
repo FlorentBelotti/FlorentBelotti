@@ -1,6 +1,3 @@
-### Student at 42_Perpignan.
-</p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/forest_banner_gif" alt="Description du GIF" width="100%" height="100%">
-
 ### My_profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <div align="justify">
   
@@ -19,6 +16,7 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
 [![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+</p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/Minishell(1).gif" alt="Description du GIF" width="10%" height="10%"></p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/Minishell(1).gif" alt="Description du GIF" width="10%" height="10%">
 
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
