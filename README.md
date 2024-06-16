@@ -18,6 +18,8 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
 
