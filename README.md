@@ -27,7 +27,7 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minishell.gif" alt="Description du GIF" width="20%">
   </a>
   <a href="https://github.com/FlorentBelotti/push_swap">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Push_swap.gif" alt="Description du GIF" width="20%">
+<img src="" alt="Description du GIF" width="20%">
   </a>
 </div>
     
