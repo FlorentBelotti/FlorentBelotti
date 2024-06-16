@@ -13,11 +13,18 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### 42_cursus![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-[![fbelotti's 42 stats](https://badge.mediaplus.ma/honeytones/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<div align="center">
+  
+[![fbelotti's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 
 ### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-</p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/Minishell(1).gif" alt="Description du GIF" width="10%" height="10%"></p><img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Assets/Minishell(1).gif" alt="Description du GIF" width="10%" height="10%">
-
+<div align="center">
+  <a href="https://github.com/FlorentBelotti/FdF">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/FDF.gif" alt="Description du GIF" width="20%">
+  </a>
+</div>
+    
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
 
