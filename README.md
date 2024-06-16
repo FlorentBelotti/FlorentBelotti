@@ -23,6 +23,12 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
   <a href="https://github.com/FlorentBelotti/FdF">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/FDF.gif" alt="Description du GIF" width="20%">
   </a>
+  <a href="https://github.com/FlorentBelotti/42-cursus-minishell">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minishell.gif" alt="Description du GIF" width="20%">
+  </a>
+  <a href="https://github.com/FlorentBelotti/push_swap">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Push_swap.gif" alt="Description du GIF" width="20%">
+  </a>
 </div>
     
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
