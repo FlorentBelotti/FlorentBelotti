@@ -20,17 +20,37 @@ On my GitHub profile, you'll find **repositories from Ecole 42 as well as person
 
 ### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <div align="center">
-  <a href="https://github.com/FlorentBelotti/FdF">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/FDF.gif" alt="Description du GIF" width="20%">
-  </a>
+  <a href="">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Philosophers.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42-cursus-minishell">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minishell.gif" alt="Description du GIF" width="20%">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/Pipex">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pipex.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/FdF">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/FDF.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/FlorentBelotti/push_swap">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pushswap.gif" alt="Description du GIF" width="20%">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/get_next_line">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/GNL.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/libft/tree/main/ft_printf">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/printf.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/libft">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-    
+
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
 
