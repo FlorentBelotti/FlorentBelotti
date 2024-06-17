@@ -10,7 +10,7 @@
     </td>
     <td style="width: 40%; height: 200px;">
       <div align="left">
-        Previously, I completed a <strong>Master's degree in Public Affairs</strong><br>during which I gained three years of professional experience.<br><br>Realizing the increasing importance 📈 of data management<br>and software development in the public affairs sector, I decided<br>to acquire technical skills by applying to Ecole 42.<br><br>After successfully completing the <strong>August 2024 piscine 🏊‍♂️</strong>, I was selected and have been a student there since.
+        Previously, I completed a <strong>Master's degree in Public Affairs</strong><br>during which I gained three years of professional experience.<br><br>Realizing the increasing importance 📈 of data management<br>and software development in the public affairs sector, I decided<br>to acquire technical skills by applying to Ecole 42.<br><br>I've been a 42 student since <strong>Perpignan's August 2024 piscine 🏊‍♂️</strong>.
         </div>
     </td>
   </tr>
