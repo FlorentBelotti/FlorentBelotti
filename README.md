@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Florent Belotti, a 25 years-old student at School 42 Perpignan.![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 👋 Hi! I'm <strong>Florent Belotti</strong>, a 25 years-old student at School 42 Perpignan.![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
 <table>
