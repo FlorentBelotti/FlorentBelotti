@@ -1,4 +1,10 @@
 ### My_profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+| <div style="width: 60%;">Cursus</div>  | <div style="width: 30%;">Description</div> |
+| ------------- | ------------- |
+| [![fbelotti's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)  | <div align="justify">Hi, I'm **Florent Belotti**, a **25-year-old student at School 42 in Perpignan**. I hold a **Master's degree in Public Affairs**, during which I gained three years of professional experience. Recognizing the growing importance of data management and software development in public affairs, I decided to enhance my technical skills at Ecole 42. After successfully completing the **August 2024 piscine**, I was selected to join the program.</div> |
+
+
 <div align="justify">
   
 Hi, I'm **Florent Belotti**, a **25-year-old student at School 42 in Perpignan**. I hold a **Master's degree in Public Affairs**, during which I gained three years of professional experience. Recognizing the growing importance of data management and software development in public affairs, I decided to enhance my technical skills at Ecole 42. After successfully completing the **August 2024 piscine**, I was selected to join the program.  
