@@ -1,5 +1,6 @@
 ### My_profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<div align="center">
 <table>
   <tr>
     <td style="width: 60%; height: 200px;">
@@ -8,14 +9,13 @@
       </a>
     </td>
     <td style="width: 40%; height: 200px;">
-      <div align="justify">
-        Hi, I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at School 42 in Perpignan</strong>.<br><br>
-        I hold a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience.<br><br>
-        Recognizing the growing importance of data management and software<br>development in public affairs, I decided to enhance my technical skills at Ecole 42.<br>
+      <div align="left">
+        👋 Hi! I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at Ecole 42.</strong><br><br>Previously, I completed a <strong>Master's degree in Public Affairs</strong> 🎓<br>during which I gained three years of professional experience.<br><br>Realizing the increasing importance 📈 of data management <br>and software development 👨‍💻 in the public affairs sector,<br>I decided to acquire technical skills by applying to Ecole 42.<br><br>After successfully completing the <strong>August 2024 piscine 🏊‍♂️</strong>,<br>I was selected and have been a student there since.
         </div>
     </td>
   </tr>
 </table>
+</div>
 
 ### Languages![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
