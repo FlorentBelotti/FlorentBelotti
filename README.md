@@ -2,16 +2,17 @@
 
 <table>
   <tr>
-    <td style="width: 80%; height: 200px;">
+    <td style="width: 60%; height: 200px;">
       <a href="https://github.com/oakoudad/badge42">
         <img src="https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off" alt="fbelotti's 42 stats" style="width: 100%; height: auto;">
       </a>
     </td>
-    <td style="width: 20%; height: 200px;">
-        Hi, I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at School 42 in Perpignan</strong>.<br>
-        I hold a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience.<br>
-        Recognizing the growing importance of data management and software development in public affairs, I decided to enhance my technical skills at Ecole 42.<br>
-        After successfully completing the <strong>August 2024 piscine</strong>, I was selected to join the program.
+    <td style="width: 40%; height: 200px;">
+      <div align="justify">
+        Hi, I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at School 42 in Perpignan</strong>.<br><br>
+        I hold a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience.<br><br>
+        Recognizing the growing importance of data management and software<br>development in public affairs, I decided to enhance my technical skills at Ecole 42.<br>
+        </div>
     </td>
   </tr>
 </table>
