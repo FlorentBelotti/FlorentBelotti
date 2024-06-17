@@ -1,17 +1,19 @@
 ### My_profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<div align="justify">
-
-Hi, I'm **Florent Belotti**, a **25-year-old student at School 42 in Perpignan**. I hold a **Master's degree in Public Affairs**, during which I gained three years of
-professional experience. Recognizing the growing importance of data management and software development in public affairs, I decided to enhance my technical skills at Ecole 42. After successfully completing the **August 2024 piscine**, I was selected to join the program.  
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off" alt="fbelotti's 42 stats">
+    </a>
+  </div>
+  <div>
+    Hi, I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at School 42 in Perpignan</strong>.<br>
+    I hold a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience.<br>
+    Recognizing the growing importance of data management and software development in public affairs, I decided to enhance my technical skills at Ecole 42.<br>
+    After successfully completing the <strong>August 2024 piscine</strong>, I was selected to join the program.
+  </div>
 </div>
 
-<div align="center">
-  
-[![fbelotti's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
-
-On my GitHub profile, you'll find **repositories from Ecole 42 as well as personal projects**. Feel free to explore and connect with me for any questions or collaborations.
 
 ### Languages![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
