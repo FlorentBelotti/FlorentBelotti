@@ -10,7 +10,7 @@
     </td>
     <td style="width: 40%; height: 200px;">
       <div align="left">
-        👋 Hi! I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at Ecole 42.</strong><br><br>Previously, I completed a <strong>Master's degree in Public Affairs</strong> 🎓<br>during which I gained three years of professional experience.<br>Realizing the increasing importance 📈 of data management and software development in the public affairs sector, I decided to acquire technical skills by applying to Ecole 42. After successfully completing the <strong>August 2024 piscine 🏊‍♂️</strong>, I was selected and have been a student there since.
+        👋 Hi! I'm <strong>Florent Belotti</strong>, a <strong>25-year-old student at Ecole 42.</strong><br><br>Previously, I completed a <strong>Master's degree in Public Affairs</strong> 🎓<br>during which I gained three years of professional experience.<br><br>Realizing the increasing importance 📈 of data management and software development in the public affairs sector, I decided to acquire technical skills by applying to Ecole 42. After successfully completing the <strong>August 2024 piscine 🏊‍♂️</strong>, I was selected and have been a student there since.
         </div>
     </td>
   </tr>
