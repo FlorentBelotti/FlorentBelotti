@@ -54,7 +54,7 @@
   <a href="https://github.com/FlorentBelotti/get_next_line">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/GNL.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FlorentBelotti/libft/tree/main/ft_printf">
+  <a href="https://github.com/FlorentBelotti/42_cursus_printf">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/printf.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/libft">
