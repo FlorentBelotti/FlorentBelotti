@@ -34,6 +34,10 @@
   <a href="https://github.com/FlorentBelotti/42_cursus_miniRT">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/MiniRT.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
 <div align="center">
   <a href="https://github.com/FlorentBelotti/42_cursus_philosophers">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Philosophers.gif" alt="Description du GIF" width="20%">
