@@ -59,7 +59,7 @@
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/GNL.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42_cursus_printf">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/printf.gif" alt="Description du GIF" width="20%">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Printf.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/libft">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
