@@ -90,3 +90,5 @@
 
 ### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=FlorentBelotti&show_icons=true?theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
