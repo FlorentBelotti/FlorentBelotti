@@ -5,21 +5,8 @@
 ### 👋 Hi! I'm Florent Belotti, a 25 years-old student at School 42 Perpignan.
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td style="width: 60%; height: 200px;">
-      <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/colorfulwaves/fbelotti?1337Badge=off&UM6P=off" alt="fbelotti's 42 stats" style="width: 100%; height: auto;">
-      </a>
-    </td>
-    <td style="width: 40%; height: 200px;">
-      <div align="left">
-        Previously, I completed a <strong>Master's degree in Public Affairs</strong><br>during which I gained three years of professional experience.<br><br>Realizing the increasing importance 📈 of data management<br>and software development in the public affairs sector,<br>I decided to acquire technical skills by applying to Ecole 42.<br><br>I've been a 42 student since <strong>Perpignan's August 2024 piscine 🏊‍♂️</strong>.
-        </div>
-    </td>
-  </tr>
-</table>
+<div align="left">
+Previously, I completed a <strong>Master's degree in Public Affairs</strong>during which I gained three years of professional experience.Realizing the increasing importance 📈 of data management and software development in the public affairs sector, I decided to acquire technical skills by applying to Ecole 42. <br><br>I've been a 42 student since <strong>Perpignan's August 2024 piscine 🏊‍♂️</strong>.
 </div>
 
 ### Contact_me![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
