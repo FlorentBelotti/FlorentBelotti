@@ -5,7 +5,7 @@
 ### 👋 Hi! I'm Florent Belotti, a 25 years-old student at School 42 Perpignan.
 </div>
 
-<div align="left">
+<div align="justify">
 Previously, I completed a <strong>Master's degree in Public Affairs</strong>during which I gained three years of professional experience. Realizing the increasing importance 📈 of data management and software development in the public affairs sector, I decided to acquire technical skills by applying to Ecole 42. <br><br>I've been a 42 student since <strong>Perpignan's August 2024 piscine 🏊‍♂️</strong>.
 </div>
 
