@@ -65,7 +65,7 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong>duri
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42_cursus_piscine">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Piscine.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
