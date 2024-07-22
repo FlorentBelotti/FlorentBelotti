@@ -30,14 +30,14 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong>duri
   <a href="https://github.com/FlorentBelotti/42_cursus_CPP_Modules">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/CPP.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/42_cursus_philosophers">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Philosophers.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/FlorentBelotti/42_cursus_philosophers">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Philosophers.gif" alt="Description du GIF" width="20%">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42-cursus-minishell">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minishell.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,14 +47,14 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong>duri
   <a href="https://github.com/FlorentBelotti/FdF">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/FDF.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/push_swap">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pushswap.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/FlorentBelotti/push_swap">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pushswap.gif" alt="Description du GIF" width="20%">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/get_next_line">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/GNL.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,6 +62,9 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong>duri
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Printf.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/libft">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FlorentBelotti/42_cursus_piscine">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
