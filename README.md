@@ -78,10 +78,6 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentBelotti&theme=aura" />
 </div>
 
-<br>
-
-[![HitCount](https://hits.dwyl.com/FlorentBelotti/FlorentBelotti.svg?style=flat-square)](http://hits.dwyl.com/FlorentBelotti/FlorentBelotti)
-
 ### Design![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### Graphics
