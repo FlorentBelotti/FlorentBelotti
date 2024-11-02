@@ -26,7 +26,7 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
 ### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <div align="center">
-  <a href="https://github.com/FlorentBelotti/42_cursus_transcendence">
+  <a href="https://github.com/FlorentBelotti/42_cursus_ft_transcendence">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/transcendence.gif"  alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42_cursus_Inception">
