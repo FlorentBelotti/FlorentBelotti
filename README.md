@@ -32,9 +32,6 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
   <a href="https://github.com/FlorentBelotti/42_cursus_Inception">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Inception.gif"  alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FlorentBelotti/42_cursus_Webserv">
-<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Webserv.gif"  alt="Description du GIF" width="20%">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FlorentBelotti/42_cursus_ft_irc">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/ft_irc.gif"  alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
