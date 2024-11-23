@@ -25,10 +25,15 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
 
 ### 42_repositories![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<div align="center">
+<div align="left">
+#### Last circle
   <a href="https://github.com/FlorentBelotti/42_cursus_ft_transcendence">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/transcendence.gif"  alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+#### Fifth circle
   <a href="https://github.com/FlorentBelotti/42_cursus_Inception">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Inception.gif"  alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +44,7 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
 
 <br>
 
-<div align="center">
+#### Fourth circle
   <a href="https://github.com/FlorentBelotti/42_cursus_miniRT">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minirt.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,17 +54,20 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
   <a href="https://github.com/FlorentBelotti/42_cursus_CPP_Modules">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/CPP.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<br>
+
+#### Third circle
   <a href="https://github.com/FlorentBelotti/42_cursus_philosophers">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Philosophers.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/FlorentBelotti/42-cursus-minishell">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Minishell.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+#### Second circle
   <a href="https://github.com/FlorentBelotti/Pipex">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pipex.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,11 +77,8 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
   <a href="https://github.com/FlorentBelotti/push_swap">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Pushswap.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
-<br>
-
-<div align="center">
+#### First circle
   <a href="https://github.com/FlorentBelotti/get_next_line">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/GNL.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,6 +88,10 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
   <a href="https://github.com/FlorentBelotti/libft">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Libft.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+#### Piscine
   <a href="https://github.com/FlorentBelotti/42_cursus_piscine">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Piscine.gif" alt="Description du GIF" width="20%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
