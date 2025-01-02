@@ -25,6 +25,18 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
 
 ### 42_data_science![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<div align="center">
+
+  <a href="https://github.com/FlorentBelotti/42_cursus_Python_for_data_science">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Python.gif"  alt="Description du GIF" width="30%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="hhttps://fr.wikipedia.org/wiki/Rickroll">
+<img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/DataScience.gif"  alt="Description du GIF" width="30%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
 ### 42_common_core![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### Last circle
