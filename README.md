@@ -31,7 +31,7 @@ Previously, I completed a <strong>Master's degree in Public Affairs</strong> dur
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/Python.gif"  alt="Description du GIF" width="30%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="hhttps://fr.wikipedia.org/wiki/Rickroll">
+  <a href="https://github.com/FlorentBelotti/42_cursus_Data_Science.git">
 <img src="https://github.com/FlorentBelotti/FlorentBelotti/blob/main/DataScience.gif"  alt="Description du GIF" width="30%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
