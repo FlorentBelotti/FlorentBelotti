@@ -2,7 +2,7 @@
 
 <div align="left">
   
-### 👋 Hi! I'm Florent Belotti, a 25 years-old student at School 42 Perpignan.
+### 👋 Hi! I'm Florent Belotti, a 26 years-old student at School 42 Perpignan.
 </div>
 
 <div align="justify">
