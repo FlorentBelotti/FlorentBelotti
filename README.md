@@ -12,12 +12,7 @@ Realizing the increasing importance 📈 of data and technology in decision-maki
 
 I am currently working at the <strong>National Development and Engineering Department of RTE</strong> (Europe’s largest transmission system operator), where I design and deploy 🚀 mission-critical digital solutions ensuring the consistency and reliability of asset data across the French electricity grid ⚡ — a backbone of national energy security.  
 
-On a daily basis, I leverage a modern tech stack:  
-🐍 <strong>Django REST Framework</strong> for robust APIs  
-⚛️ <strong>Angular</strong> + <strong>Angular Material</strong> for dynamic UIs  
-🐳 <strong>Docker</strong> for scalable deployments  
-🔄 <strong>CI/CD pipelines</strong> for automated delivery  
-📊 <strong>Matomo</strong> for user analytics  
+On a daily basis, I leverage a modern tech stack: 🐍 <strong>Django REST Framework</strong>, ⚛️ <strong>Angular</strong> and <strong>Angular Material</strong>, 🐳 <strong>Docker</strong>, 🔄 <strong>CI/CD pipelines</strong>, 📊 <strong>Matomo</strong> etc.  
 
 Working in an <strong>Agile environment</strong>, I collaborate closely with end-users to deliver high-impact tools that drive the modernization of the national energy infrastructure 🏗️🔧.
 </div>
