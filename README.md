@@ -5,9 +5,6 @@
 ### 👋 Hi! I'm Florent Belotti, a 26 years-old Full Stack Developer, Data Engineer, and Web Designer at School 42 Perpignan.
 </div>
 
-### 👋 Hi! I'm Florent Belotti, a 26 years-old <strong>Full Stack Developer</strong>, <strong>Data Engineer</strong>, and <strong>Web Designer</strong> at School 42 Perpignan.
-</div>
-
 <div align="justify">
 Previously, I completed a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience at the 🌍 <strong>Ministry for the Ecological Transition</strong> and the ⚡ <strong>National Public Affairs Department of Enedis</strong>. These experiences allowed me to contribute to projects with strong societal and environmental impact, bridging the gap between public policy and digital innovation ✨.  
 
