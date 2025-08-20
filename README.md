@@ -2,12 +2,29 @@
 
 <div align="left">
   
-### 👋 Hi! I'm Florent Belotti, a 26 years-old student at School 42 Perpignan.
+### 👋 Hi! I'm Florent Belotti, a 26 years-old Full Stack Developer, Data Engineer, and Web Designer at School 42 Perpignan.
+</div>
+
+### 👋 Hi! I'm Florent Belotti, a 26 years-old <strong>Full Stack Developer</strong>, <strong>Data Engineer</strong>, and <strong>Web Designer</strong> at School 42 Perpignan.
 </div>
 
 <div align="justify">
-Previously, I completed a <strong>Master's degree in Public Affairs</strong> during which I gained three years of professional experience. Realizing the increasing importance 📈 of data management and software development in the public affairs sector, I decided to acquire technical skills by applying to Ecole 42. <br><br>I've been a 42 student since <strong>Perpignan's November 2023 piscine 🏊‍♂️</strong>.
+Previously, I completed a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience at the 🌍 <strong>Ministry for the Ecological Transition</strong> and the ⚡ <strong>National Public Affairs Department of Enedis</strong>. These experiences allowed me to contribute to projects with strong societal and environmental impact, bridging the gap between public policy and digital innovation ✨.  
+
+Realizing the increasing importance 📈 of data and technology in decision-making, I joined <strong>Ecole 42</strong> to acquire advanced technical skills. <br><br>
+
+I am currently working at the <strong>National Development and Engineering Department of RTE</strong> (Europe’s largest transmission system operator), where I design and deploy 🚀 mission-critical digital solutions ensuring the consistency and reliability of asset data across the French electricity grid ⚡ — a backbone of national energy security.  
+
+On a daily basis, I leverage a modern tech stack:  
+🐍 <strong>Django REST Framework</strong> for robust APIs  
+⚛️ <strong>Angular</strong> + <strong>Angular Material</strong> for dynamic UIs  
+🐳 <strong>Docker</strong> for scalable deployments  
+🔄 <strong>CI/CD pipelines</strong> for automated delivery  
+📊 <strong>Matomo</strong> for user analytics  
+
+Working in an <strong>Agile environment</strong>, I collaborate closely with end-users to deliver high-impact tools that drive the modernization of the national energy infrastructure 🏗️🔧.
 </div>
+
 
 ### Contact_me![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-belotti-8ab0a8304/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florent.l.d.belotti@gmail.com) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
