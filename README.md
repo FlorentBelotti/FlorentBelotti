@@ -9,7 +9,7 @@
 Previously, I completed a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience at the 🌍 <strong>Ministry for the Ecological Transition</strong> and the ⚡ <strong>National Public Affairs Department of Enedis</strong>. These experiences allowed me to contribute to projects with strong societal and environmental impact, bridging the gap between public policy and digital innovation ✨.  
 
 Realizing the increasing importance 📈 of data and technology in decision-making, I joined <strong>Ecole 42</strong> to acquire advanced technical skills. <br><br>
-I am currently working at the <strong>National Development and Engineering Department of RTE</strong> (Europe’s largest transmission system operator), where I design and deploy 🚀 mission-critical digital solutions ensuring the consistency and reliability of asset data across the French electricity grid ⚡ — a backbone of national energy security.
+I am currently working at the <strong>National Development and Engineering Department of RTE</strong>, where I design and deploy 🚀 digital solutions ensuring the consistency and reliability of asset data across the French electricity grid ⚡.
 
 On a daily basis, I leverage a modern tech stack: 🐍 <strong>Django REST Framework</strong>, ⚛️ <strong>Angular</strong> and <strong>Angular Material</strong>, 🐳 <strong>Docker</strong>, 🔄 <strong>CI/CD pipelines</strong>, 📊 <strong>Matomo</strong> etc.
 
