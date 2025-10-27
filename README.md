@@ -126,15 +126,6 @@ Working in an <strong>Agile environment</strong>, I collaborate closely with end
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-### Statistics![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<div align="center">
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorentBelotti&show_icons=true&theme=aura" />
-</a>&nbsp;&nbsp;&nbsp; -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentBelotti&theme=aura" />
-</div>
-
 ### Design![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### Webdesign
