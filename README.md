@@ -1,24 +1,5 @@
-### My profil![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<div align="left">
-  
-### 👋 Hi! I'm Florent Belotti, a 26 years-old Full Stack Developer, Data Engineer, and Web Designer at School 42 Perpignan.
-</div>
-
-<div align="justify">
-Previously, I completed a <strong>Master's degree in Public Affairs</strong>, during which I gained three years of professional experience at the 🌍 <strong>Ministry for the Ecological Transition</strong> and the ⚡ <strong>National Public Affairs Department of Enedis</strong>. These experiences allowed me to contribute to projects with strong societal and environmental impact, bridging the gap between public policy and digital innovation ✨.  
-
-Realizing the increasing importance 📈 of data and technology in decision-making, I joined <strong>Ecole 42</strong> to acquire advanced technical skills. <br><br>
-I am currently working at the <strong>National Development and Engineering Department of RTE</strong>, where I design and deploy 🚀 digital solutions ensuring the consistency and reliability of asset data across the French electricity grid ⚡.
-
-On a daily basis, I leverage a modern tech stack: 🐍 <strong>Django REST Framework</strong>, ⚛️ <strong>Angular</strong> and <strong>Angular Material</strong>, 🐳 <strong>Docker</strong>, 🔄 <strong>CI/CD pipelines</strong>, 📊 <strong>Matomo</strong> etc.
-
-Working in an <strong>Agile environment</strong>, I collaborate closely with end-users to deliver high-impact tools that drive the modernization of the national energy infrastructure 🏗️🔧.
-</div>
-
-
 ### Contact_me![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-b-8ab0a8304/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florent.l.d.belotti@gmail.com) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-b-8ab0a8304/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robert_mule@proton.me) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Languages && tools![---------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
